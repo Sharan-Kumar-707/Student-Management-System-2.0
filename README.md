@@ -13,9 +13,6 @@ A beginner-friendly, console-based Java application for managing student records
 - Uses an `Iterator` for safe deletion
 - Separates student data, record management, and menu interaction into different classes
 
-## Requirements
-
-- Java JDK 8 or newer
 
 ## Run the application
 

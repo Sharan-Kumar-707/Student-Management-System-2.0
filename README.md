@@ -34,7 +34,3 @@ The application creates `students.txt` in the current working directory when it 
 - `StudentManager.java` — CRUD operations and file handling
 - `StudentManagement.java` — console menu and input validation
 - `students.txt` — created automatically to persist records
-
-## Notes
-
-The project stores each student's name using Base64 encoding inside the text file so commas in names do not break the record format. Base64 is only an encoding method, not encryption.
